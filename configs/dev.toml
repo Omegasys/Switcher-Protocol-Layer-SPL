@@ -1,0 +1,13 @@
+[network]
+max_nodes = 10
+default_latency_ms = 1
+
+[ai]
+enabled = false
+
+[security]
+encryption = "none"
+
+[telemetry]
+enabled = true
+buffer_size = 256
